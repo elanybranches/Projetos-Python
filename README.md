@@ -1,4 +1,4 @@
 # Projetos-Python
 
 
-Pasta direcionada a exemplos básicos em Python.
+Pasta direcionada a exemplos em Python.
